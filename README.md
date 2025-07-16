@@ -34,11 +34,15 @@ Git, GitHub, Visual Studio, VS Code, PyCharm, Windows, DBeaver, Postman
 
 ## 🧠 Soft Skills & Work Qualities
 
-✅ Strong interpersonal communication – collaborate effectively in teams and with stakeholders
-✅ Organized task management – prioritize, deliver on time, and stay focused under pressure
-✅ Self-learning & problem-solving – quickly adapt to new technologies and challenges
-✅ Creative mindset – bring fresh ideas and innovative approaches to every project
-✅ Attention to detail – ensure high quality and polished results in design and development
+✅ **Strong interpersonal communication** – collaborate effectively in teams and with stakeholders
+
+✅ **Organized task management** – prioritize, deliver on time, and stay focused under pressure
+
+✅ **Self-learning & problem-solving** – quickly adapt to new technologies and challenges
+
+✅ **Creative mindset** – bring fresh ideas and innovative approaches to every project
+
+✅ **Attention to detail** – ensure high quality and polished results in design and development
 
 ---
 
